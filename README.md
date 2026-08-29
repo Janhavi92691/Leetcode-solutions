@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Janhavi92691/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Janhavi92691/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Janhavi92691/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0643-maximum-average-subarray-i](https://github.com/Janhavi92691/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1603-running-sum-of-1d-array](https://github.com/Janhavi92691/Leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Janhavi92691/Leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Janhavi92691/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
